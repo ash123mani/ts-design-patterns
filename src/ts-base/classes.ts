@@ -43,8 +43,8 @@ class Dog extends Animal {
 class Cat extends Animal {}
 
 const animal = new Animal('Lion', 12)
-const CAT = new Cat('Cosmo', 8)
-const DOG = new Dog(false, 12, "Cosmo")
+const CAT = new Cat('Cosmo-cat', 8)
+const DOG = new Dog(false, 12, "Cosmo-dog")
 animal.feed('Deer Flesh', 200)
 CAT.feed('Fish', 0.1)
 console.log(DOG.feed('Beef', 0.25))

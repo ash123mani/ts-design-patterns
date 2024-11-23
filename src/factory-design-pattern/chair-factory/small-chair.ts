@@ -6,5 +6,6 @@ export default class SmallChair extends Chair {
     this.height = 40
     this.width = 40
     this.depth = 40
+    this.color = 'light-black'
   }
 }

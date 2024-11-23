@@ -5,6 +5,7 @@ interface IChair {
   height: number
   width: number
   depth: number
+  color: string;
   getDimensions(): dimension
 }
 
@@ -13,6 +14,7 @@ export default class Chair implements IChair {
   height = 0
   width = 0
   depth = 0
+  color = 'black'
 
   getDimensions(): dimension {
     return {

@@ -1,4 +1,4 @@
-# Abstract Factory Pattern
+# [Abstract Factory Pattern](https://sbcode.net/typescript/abstract_factory/)
 
 ## Summary
 

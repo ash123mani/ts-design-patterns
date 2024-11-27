@@ -1,1 +1,2 @@
-# ts-design-patterns
+# [TS Design Pattern](https://sbcode.net/typescript/)
+
